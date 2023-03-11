@@ -1,4 +1,4 @@
-# dataset_animals
+# dataset-animals-small
 
 Source: https://images.cv/
 
