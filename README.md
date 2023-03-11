@@ -15,4 +15,4 @@ Folder structure:
 │   ├── 📁shark    # 282 photos 
 │   └── 📁zebra    # 470 photos 
 ```
-Feel free to use this dataset in e.g. CNN toy problems.
+Feel free to use this dataset in e.g. CNN (Convolutional Neural Network) toy problems.
